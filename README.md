@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the documentation for the Cricket Scorer Web App! This app is designed to assist in Tracking score in gully cricket matches and small tournaments. With the ability to input team names, overs, and individual ball scores, this app aims to simplify the scoring process and determine the winner of the match.
 
-![image](https://github.com/Indian/Cricket-Scorer/assets/97107928/e5e1ab32-5c61-4309-87df-c67aa5b39975)
+![image](https://github.com/Ramprasadmanna/Cricket-Scorer/assets/97107928/e5e1ab32-5c61-4309-87df-c67aa5b39975)
 
 ![image](https://github.com/Indian/Cricket-Scorer/assets/97107928/2fb1a96b-47cb-4151-8deb-938dc80666cd)
 
