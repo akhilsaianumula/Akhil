@@ -5,7 +5,7 @@ Welcome to the documentation for the Cricket Scorer Web App! This app is designe
 
 ![image](https://github.com/akhilsaianumula/Cricket-Scorer/assets/97107928/e5e1ab32-5c61-4309-87df-c67aa5b39975)
 
-![image](https://github.com/Iakhilsaianumula/Cricket-Scorer/assets/97107928/2fb1a96b-47cb-4151-8deb-938dc80666cd)
+![image](https://github.com/akhilsaianumula/Cricket-Scorer/assets/97107928/2fb1a96b-47cb-4151-8deb-938dc80666cd)
 
 
 ## 1. Introduction
@@ -19,7 +19,7 @@ The Cricket Scorer Web App provides a user-friendly interface for Tracking score
 
 1. **Enter Team Names and Overs:**
    
-   ![image](https://github.com/Iakhilsaianumula/Cricket-Scorer/assets/97107928/9d64889e-3610-4b68-a1c4-2549b2bcffa8)
+   ![image](https://github.com/akhilsaianumula/Cricket-Scorer/assets/97107928/9d64889e-3610-4b68-a1c4-2549b2bcffa8)
 
    - On the main page, input the names of the two competing teams and the number of overs for the match.
    
