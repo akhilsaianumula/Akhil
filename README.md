@@ -5,7 +5,7 @@ Welcome to the documentation for the Cricket Scorer Web App! This app is designe
 
 ![image](https://github.com/ramprasadmanna/Cricket-Scorer/assets/97107928/e5e1ab32-5c61-4309-87df-c67aa5b39975)
 
-![image](https://github.com/Ramprasadmanna/Cricket-Scorer/assets/97107928/2fb1a96b-47cb-4151-8deb-938dc80666cd)
+![image](https://github.com/akhilsaianumula/Cricket-Scorer/assets/97107928/2fb1a96b-47cb-4151-8deb-938dc80666cd)
 
 
 ## 1. Introduction
